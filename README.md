@@ -6,6 +6,8 @@
 
 ### 项目说明
 
+本项目是中山大学计算机学院LYB老师班的期末大作业，要求使用OpenGuass数据库管理系统。
+
 本项目采用前后端分离的方式，前端使用 vue3，后端使用 django。
 
 ### Vue3 环境要求
@@ -56,3 +58,33 @@ npm install
 - python 3.6
 - django 3.2.25
 - django-cors-headers 3.10.1
+
+### 参考文献
+
+#### 关于 OpenGauss 的部署
+
+https://www.modb.pro/db/106407
+https://b23.tv/utOovh7
+https://b23.tv/3UIQDlK
+https://b23.tv/VWoVOQz
+
+#### 关于 Django 和 vue3 的环境配置和学习
+
+https://b23.tv/OCTaxeI
+
+https://blog.csdn.net/sjp991012/article/details/134426007 （nvm安装）
+
+https://blog.csdn.net/sjp991012/article/details/134426007 （若nodejs环境通过其他方式配置过了，先参考博客彻底卸载）
+
+
+#### 使用的字体库
+
+https://www.iconfont.cn/fonts/detail?spm=a313x.fonts_index.i1.d9df05512.6f603a81rc1UCt&cnid=1ntUmJ7Q4Jhw
+
+#### 登录界面樱花飘落特效参考以下博客
+
+https://blog.csdn.net/qq_59008737/article/details/134768031
+
+### 最终效果演示视频
+
+https://b23.tv/UhY7INb
