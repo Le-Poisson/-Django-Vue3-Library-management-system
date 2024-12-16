@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'DaoLiTi'; /* 字体别名 */
+    src: url('./AlimamaDaoLiTi.ttf') format('truetype'); /* 资源路径 */
+  }
+
+@keyframes zoom {
+    0% {
+      background-size: 100%; /* 初始尺寸 */
+    }
+    50% {
+      background-size: 110%; /* 放大到 110% */
+    }
+    100% {
+      background-size: 100%; /* 还原到 100% */
+    }
+  }
+
+  @keyframes ripple {
+    to {
+      transform: scale(4); /* 放大到4倍 */
+      opacity: 0; /* 最终透明 */
+    }
+  }
+
+
+  
